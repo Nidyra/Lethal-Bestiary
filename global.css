@@ -45,32 +45,6 @@ header {
     border-radius: 28px;
 }
 
-
-nav > ol {
-    columns: 2;
-    text-align: center;
-    line-height: 45px;
-
-    margin-top: 10px;
-    margin: auto;
-
-    padding: 20px;
-
-    list-style-position: inside;
-}
-
-nav {
-    font-family: pixel;
-    color:#1100ffb0;
-
-    width: 800px;
-
-    
-    
-    margin: auto;
-
-    
-}
 .cabeça {
     color: rgba(255, 0, 0, 0.445);
     text-align: center;
