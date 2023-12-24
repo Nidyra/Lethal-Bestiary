@@ -7,19 +7,19 @@
 }
 @font-face {
     font-family: doctor;
-    src: url(/fonts/Doctor\ Glitch.otf);
+    src: url(fonts/Doctor\ Glitch.otf);
 }
 @font-face {
     font-family: pixel;
-    src: url(/fonts/PixelSplitter-Bold.ttf);
+    src: url(fonts/PixelSplitter-Bold.ttf);
 }
 @font-face {
     font-family: idoit;
-    src: url(/fonts/idroid.otf);
+    src: url(fonts/idroid.otf);
 }
 @font-face {
     font-family:pixels ;
-    src: url(/fonts/Perfect\ DOS\ VGA\ 437.ttf);
+    src: url(fonts/Perfect\ DOS\ VGA\ 437.ttf);
 }
 
 body {
