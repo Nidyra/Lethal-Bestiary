@@ -161,6 +161,8 @@ h1#final {
     font-family: pixel;
     font-size: 27px;
     color: #B54136;
+
+    margin-top:35px;
 }
 h2 {
     color: chocolate;
@@ -172,11 +174,12 @@ h2 {
 
 }
 h4#braken {
-    margin-top: 280px;
+    margin-top: 68px
+    
 }
 
 .space {
-    margin-top: 110px;
+    margin-top: 48px;
 }
 
 
