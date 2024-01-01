@@ -68,11 +68,17 @@ h1 {
 }
 
 footer{
+    display: flex;
+
+    
+
     font-family: pixel;
     font-size: 15px;
     margin: auto;
 }
 ul {
+display: inline-block;
+
     margin: auto;
     margin-left: 56px;
     margin-top: 37px;
@@ -132,6 +138,26 @@ p {
     margin-top: 4pc;
     margin-bottom: 4pc;
 }
+
+div#linguagem > a:hover {
+    color: red;
+}
+
+div#linguagem > p {
+    text-align: center;
+
+    font-size: 2px;
+
+    margin-top: 1pc;
+    margin-bottom: 0pc;
+}
+
+p#arrombado {
+    color: darkorange;
+
+    font-size: 18px;
+}
+
 h3#rgb {
     font-family: pixel;
 
